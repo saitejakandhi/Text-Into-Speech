@@ -1,4 +1,4 @@
-# Text-Into-Speech:
+# Text-Convert-Speech:
 Boost.AI – Smart Text to Speak.
 
 Boost.AI is a modern web-based Text-to-Speech application that intelligently converts written content into natural voice output. It automatically detects English  languages and delivers clear, human-like speech using browser-native Speech Synthesis technology.
